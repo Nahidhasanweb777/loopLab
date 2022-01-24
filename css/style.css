@@ -1,0 +1,102 @@
+
+
+.navbar{
+    border-bottom: 3px solid #008ed6;
+    background: #292b2c;
+    opacity: 0.7;
+    padding: 0.5rem 7rem;
+}
+#home-section{
+ background:#333;
+ color:#fff;   
+}
+.home-inner{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.bg-primary {
+    background-color: #007bff!important;
+}
+/*.btn {
+    width: 307px;
+}*/
+#home-section{
+    background:url("../img/home.jpg") no-repeat center top;
+    background-size: cover;
+    min-height: 700px; 
+    background-attachment: fixed;
+    
+}
+.dark-overlay{
+    background: rgba(0,0,0,0.7);
+    min-height: 700px;
+        
+    }
+.fa{
+    background: #fff;
+    color:#008ed6;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+.card-form{
+    opacity: 0.8;
+}
+
+
+#explore-section{
+   color: #fff;
+   background-color: #6c757d!importaint;
+}
+.expore-para{
+    font-size: 19px;
+    text-align:justify-all;
+    
+}
+.jumbotron {
+   
+    margin-bottom: 0rem;
+  
+}
+
+.fa1{
+  background: #333; 
+  color: #fff;
+}
+
+#create-section{
+    color: #fff;
+}
+.text-dark {
+    color: #f3f7fb !important;
+}
+.text-dark:hover {
+    color: #333 !important;
+}
+.create{
+    padding-top: 37px;
+}
+#create-larner{
+   background:#333;
+ color:#fff;   
+}
+
+#share-section{
+    color: #fff;
+}
+
+#share-larner{
+    padding-top: 37px;
+}
+#copyright-section{
+    color: #fff;
+}
+    
+
+
+
+
+
+
+
+
